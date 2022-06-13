@@ -2,9 +2,9 @@
     height: 6vh;
     background-color: #69f0ae;
     display: flex;
-    padding: 0 2%;
     width: 100%;
     justify-content: space-between;
+    padding: 0 3%;
 }
 
 .logo_container {
@@ -22,7 +22,8 @@
 
 .logo {
     font-size: 28px;
-    margin: auto;
+    align-self: center;
+    
 }
 
 /*Nav Link CSS*/
